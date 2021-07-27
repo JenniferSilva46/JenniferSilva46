@@ -5,6 +5,8 @@
 
 Me chamo Jennifer, sou desenvolvedora entusiástica por resolver problemas, desde o primeiro contato com a programação em novembro de 2018.
 
+### Sugestões são sempre bem vindas!!!
+
 ## ⚡ Tecnologias 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

@@ -3,7 +3,7 @@
 <!--
 **JenniferSilva46/JenniferSilva46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm a developer enthusiastic about solving problems. I currently work as a junior systems analyst at [**ATI**](https://www.ati.com.br).
+I'm a software engineer full-stack enthusiastic about solving problems. I currently work as a junior systems analyst at [**ATI**](https://www.ati.com.br).
 
 ## ⚡ Languages 
 ![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
